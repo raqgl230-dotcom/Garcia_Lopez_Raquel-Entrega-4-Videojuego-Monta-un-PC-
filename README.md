@@ -8,3 +8,4 @@ Tambien agrege algunos colores para que no se viese tan soso por asi decirlo.
 Por ultimo y de las pocas cosas que se me ocurrieron seria poner un boton de 'OK' que al finalizar la actividad te pusiese un mensaje de 'victoria'ç
 Eso seria todo.
 Gracias por leer.
+Raquel Garcia Lopez
